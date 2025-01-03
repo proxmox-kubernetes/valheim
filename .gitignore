@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!main.tf
+!variables.tf
+
